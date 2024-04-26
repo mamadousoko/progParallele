@@ -6,7 +6,7 @@ def my_map(func, arg1, arg2):
     """
     This will map the function 'func' to each pair
     of arguments in the list 'arg1' and 'arg2', returning
-    the result
+    the results
     """
 
     res = []
