@@ -1,5 +1,5 @@
 def diff(x, y):
-    """ Calling function diff with arguments """
+    """ Simple function returns diff of the arguments """
     return x - y
 
 def my_map(func, arg1, arg2):
